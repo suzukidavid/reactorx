@@ -54,7 +54,7 @@ This is a redux-like library, and:
     * drop `replaceReducer`
         * there are no more rootReducer, and no need `ReduxUtils.combineReducers` too.
         
-#### Example
+#### Examples
 
 ```typescript
 import { Store, Actor, Volume, renderOn } from "@reactorx/core"
